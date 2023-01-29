@@ -8,17 +8,18 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+My project is about building a virtual personal assistant for scheduling and task management, using a combination of natural language processing and machine learning techniques. The assistant will be able to understand and respond to user's inputs, set up reminders and appointments, and make suggestions to optimize their schedule and productivity.
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+My idea solves the following problems:
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+* Difficulty in managing and keeping track of a busy schedule
+* Difficulty in remembering and completing tasks on time
+* Difficulty in optimizing time usage
+* Difficulty in finding a personal assistant that can understand natural language commands
+This problem is very common, as many people have busy schedules and find it challenging to keep track of all their tasks and appointments. Personal motivation for this project is to help people to manage their time more efficiently and effectively. This topic is important because it relates to productivity and organization, which are essential for personal and professional success. Additionally, the development of virtual personal assistant is a growing field with many potential applications in various industries.
 
 
 ## How is it used?
